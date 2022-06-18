@@ -1,0 +1,900 @@
+@media (min-width: 320px) and (max-width: 479.98px) {
+
+    .header_in .header_all .head_text {
+        margin-top: 18px;
+        margin-left: 0;
+    }
+
+    .header_in .header_all .head_text h3 {
+        font-size: 30px;
+        text-align: center;
+    }
+
+    .header_in .header_all .btn {
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .details_all .detaisl_text h3 {
+        font-size: 24px;
+        font-weight: 600;
+        width: 100%;
+    }
+
+    .details_all .d_btn {
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .details_all .d_btn h3 {
+        font-size: 15px;
+        padding: 8px 10px;
+    }
+
+    .services_all {
+        margin-top: 20px;
+    }
+
+    .services_all .services_inner h3 {
+        font-size: 24px;
+        text-align: center;
+        width: 170px;
+        margin-bottom: 25px;
+    }
+
+    .services_all .services_inner .ser_img {
+        width: 100%;
+    }
+
+    .services_all .services_inner .ser_in_text h4 {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+
+    .services_all .services_inner .ser_in_text p {
+        font-size: 16px;
+        width: 100%;
+    }
+
+    .services_all .ser_btn {
+        margin-top: 20px;
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .services_all .ser_btn button {
+        margin-top: 20px;
+    }
+
+    .services_all .ser_btn button h5 {
+        font-size: 14px;
+        font-weight: 500;
+        text-transform: uppercase;
+        color: white;
+        display: block;
+        margin: 0;
+        padding: 5px 15px;
+    }
+
+    .apply_all .apply_inner h3 {
+        font-size: 24px;
+    }
+
+    .apply_all .apply_inner .app_img {
+        width: 100%;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+
+    .apply_all .apply_inner .app_in_text h4 {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+
+    .apply_all .apply_inner .app_in_text p {
+        font-size: 16px;
+    }
+
+    .apply_all .app_btn {
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .apply_all .app_btn h5 {
+        font-size: 14px;
+        padding: 5px 15px;
+
+    }
+
+    .team_all {
+        margin-top: 40px;
+        margin-bottom: 30px;
+    }
+
+    .team_our {
+        margin-bottom: 20px;
+    }
+
+    .team_our h3 {
+        font-size: 24px;
+    }
+
+    .team_all img {
+        margin-left: 0;
+        width: 100%;
+    }
+
+    .team_text h3 {
+        font-size: 20px;
+    }
+
+    .team_text h5 {
+        font-size: 18px;
+    }
+
+    .slick-slide img {
+        width: 100%;
+    }
+
+    .slick-dots {
+        position: relative;
+        left: 50%;
+        bottom: 0;
+        transform: translateX(-50%);
+    }
+
+    .slick-dots li {
+        margin: 0px 7px;
+    }
+
+    .footer_up_all h3 {
+        font-size: 22px;
+        margin: 10px 0;
+    }
+
+    .footer_up_all p {
+        font-size: 16px;
+    }
+
+    .footer_up_all {
+        width: 100%;
+        padding: 20px 0;
+    }
+
+    .footer_down p {
+        text-align: center;
+        padding: 10px 0;
+    }
+}
+
+
+@media (min-width: 480px) and (max-width: 575.98px) {
+    .header_in .header_all .head_text {
+        margin-top: 18px;
+        margin-left: 0;
+    }
+
+    .header_in .header_all .head_text h3 {
+        font-size: 32px;
+        text-align: center;
+    }
+
+    .header_in .header_all .btn {
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .details_all .detaisl_text h3 {
+        font-size: 28px;
+        font-weight: 600;
+        width: 100%;
+    }
+
+    .details_all .d_btn {
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .details_all .d_btn h3 {
+        font-size: 15px;
+        padding: 8px 10px;
+    }
+
+    .services_all {
+        margin-top: 20px;
+    }
+
+    .services_all .services_inner h3 {
+        font-size: 28px;
+        text-align: center;
+        width: 50%;
+        margin-bottom: 25px;
+    }
+
+    .services_all .services_inner .ser_img {
+        width: 100%;
+    }
+
+    .services_all .services_inner .ser_in_text h4 {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+
+    .services_all .services_inner .ser_in_text p {
+        font-size: 16px;
+        width: 100%;
+    }
+
+    .services_all .ser_btn {
+        margin-top: 20px;
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .services_all .ser_btn button {
+        margin-top: 20px;
+    }
+
+    .services_all .ser_btn button h5 {
+        font-size: 14px;
+        font-weight: 500;
+        text-transform: uppercase;
+        color: white;
+        display: block;
+        margin: 0;
+        padding: 5px 15px;
+    }
+
+    .apply_all .apply_inner h3 {
+        font-size: 24px;
+    }
+
+    .apply_all .apply_inner .app_img {
+        width: 100%;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+
+    .apply_all .apply_inner .app_in_text h4 {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+
+    .apply_all .apply_inner .app_in_text p {
+        font-size: 16px;
+    }
+
+    .apply_all .app_btn {
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .apply_all .app_btn h5 {
+        font-size: 14px;
+        padding: 5px 15px;
+
+    }
+
+    .team_all {
+        margin-top: 40px;
+        margin-bottom: 30px;
+    }
+
+    .team_our {
+        margin-bottom: 20px;
+    }
+
+    .team_our h3 {
+        font-size: 24px;
+    }
+
+    .team_all img {
+        margin-left: 0;
+        width: 100%;
+    }
+
+    .team_text h3 {
+        font-size: 20px;
+    }
+
+    .team_text h5 {
+        font-size: 18px;
+    }
+
+    .slick-slide img {
+        width: 100%;
+    }
+
+    .slick-dots {
+        position: relative;
+        left: 50%;
+        bottom: 0;
+        transform: translateX(-50%);
+        width: 100%;
+        text-align: center;
+    }
+
+    .slick-dots li {
+        margin: 0px 5px;
+    }
+
+    .slick-dots li button {
+        margin: 5px 0 0 0px;
+    }
+
+    .footer_up_all h3 {
+        font-size: 22px;
+        margin: 10px 0;
+    }
+
+    .footer_up_all p {
+        font-size: 16px;
+    }
+
+    .footer_up_all {
+        width: 100%;
+        padding: 20px 0;
+    }
+
+    .footer_down p {
+        text-align: center;
+        padding: 10px 0;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    .header_in .header_all .head_text {
+        margin-top: 18px;
+        margin-left: 0;
+    }
+
+    .header_in .header_all .head_text h3 {
+        font-size: 32px;
+        text-align: center;
+    }
+
+    .header_in .header_all .btn {
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .details_all .detaisl_text h3 {
+        font-size: 34px;
+        font-weight: 600;
+        width: 100%;
+    }
+
+    .details_all .d_btn {
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .details_all .d_btn h3 {
+        font-size: 15px;
+        padding: 8px 10px;
+    }
+
+    .services_all {
+        margin-top: 20px;
+    }
+
+    .services_all .services_inner h3 {
+        font-size: 28px;
+        text-align: center;
+        width: 50%;
+        margin-bottom: 25px;
+    }
+
+    .services_all .services_inner .ser_img {
+        width: 100%;
+    }
+
+    .services_all .services_inner .ser_in_text h4 {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+
+    .services_all .services_inner .ser_in_text p {
+        font-size: 16px;
+        width: 100%;
+    }
+
+    .services_all .ser_btn {
+        margin-top: 20px;
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .services_all .ser_btn button {
+        margin-top: 20px;
+    }
+
+    .services_all .ser_btn button h5 {
+        font-size: 14px;
+        font-weight: 500;
+        text-transform: uppercase;
+        color: white;
+        display: block;
+        margin: 0;
+        padding: 5px 15px;
+    }
+
+    .apply_all .apply_inner h3 {
+        font-size: 24px;
+    }
+
+    .apply_all .apply_inner .app_img {
+        width: 100%;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+
+    .apply_all .apply_inner .app_in_text h4 {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+
+    .apply_all .apply_inner .app_in_text p {
+        font-size: 16px;
+    }
+
+    .apply_all .app_btn {
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .apply_all .app_btn h5 {
+        font-size: 14px;
+        padding: 5px 15px;
+
+    }
+
+    .team_all {
+        margin-top: 40px;
+        margin-bottom: 30px;
+    }
+
+    .team_our {
+        margin-bottom: 20px;
+    }
+
+    .team_our h3 {
+        font-size: 24px;
+    }
+
+    .team_all img {
+        margin-left: 0;
+        width: 100%;
+    }
+
+    .team_text h3 {
+        font-size: 20px;
+    }
+
+    .team_text h5 {
+        font-size: 18px;
+    }
+
+    .slick-slide img {
+        width: 100%;
+    }
+
+    .slick-dots {
+        position: relative;
+        left: 50%;
+        bottom: 0;
+        transform: translateX(-50%);
+        width: 100%;
+        text-align: center;
+    }
+
+    .slick-dots li {
+        margin: 0px 5px;
+    }
+
+    .slick-dots li button {
+        margin: 5px 0 0 0px;
+    }
+
+    .footer_up_all h3 {
+        font-size: 22px;
+        margin: 10px 0;
+    }
+
+    .footer_up_all p {
+        font-size: 16px;
+    }
+
+    .footer_up_all {
+        width: 100%;
+        padding: 20px 0;
+    }
+
+    .footer_down p {
+        text-align: center;
+        padding: 10px 0;
+    }
+
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .header_in .header_all .head_text {
+        margin-top: 18px;
+        margin-left: 0;
+    }
+
+    .header_in .header_all .head_text h3 {
+        font-size: 32px;
+        text-align: center;
+    }
+
+    .header_in .header_all .btn {
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .details_all .detaisl_text h3 {
+        font-size: 32px;
+        font-weight: 600;
+        width: 100%;
+    }
+
+    .details_all .d_btn {
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .details_all .d_btn h3 {
+        font-size: 15px;
+        padding: 8px 10px;
+    }
+
+    .services_all {
+        margin-top: 20px;
+    }
+
+    .services_all .services_inner h3 {
+        font-size: 28px;
+        text-align: center;
+        width: 50%;
+        margin-bottom: 25px;
+    }
+
+    .services_all .services_inner .ser_img {
+        width: 100%;
+    }
+
+    .services_all .services_inner .ser_in_text h4 {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+
+    .services_all .services_inner .ser_in_text p {
+        font-size: 16px;
+        width: 100%;
+    }
+
+    .services_all .ser_btn {
+        margin-top: 20px;
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .services_all .ser_btn button {
+        margin-top: 20px;
+    }
+
+    .services_all .ser_btn button h5 {
+        font-size: 14px;
+        font-weight: 500;
+        text-transform: uppercase;
+        color: white;
+        display: block;
+        margin: 0;
+        padding: 5px 15px;
+    }
+
+    .apply_all .apply_inner h3 {
+        font-size: 24px;
+    }
+
+    .apply_all .apply_inner .app_img {
+        width: 100%;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+
+    .apply_all .apply_inner .app_in_text h4 {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+
+    .apply_all .apply_inner .app_in_text p {
+        font-size: 16px;
+    }
+
+    .apply_all .app_btn {
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .apply_all .app_btn h5 {
+        font-size: 14px;
+        padding: 5px 15px;
+
+    }
+
+    .team_all {
+        margin-top: 40px;
+        margin-bottom: 30px;
+    }
+
+    .team_our {
+        margin-bottom: 20px;
+    }
+
+    .team_our h3 {
+        font-size: 24px;
+    }
+
+    .team_all img {
+        margin-left: 0;
+        width: 100%;
+    }
+
+    .team_text h3 {
+        font-size: 20px;
+    }
+
+    .team_text h5 {
+        font-size: 18px;
+    }
+
+    .slick-slide img {
+        width: 100%;
+    }
+
+    .slick-dots {
+        position: relative;
+        left: 50%;
+        bottom: 0;
+        transform: translateX(-50%);
+        width: 100%;
+        text-align: center;
+    }
+
+    .slick-dots li {
+        margin: 0px 5px;
+    }
+
+    .slick-dots li button {
+        margin: 5px 0 0 0px;
+    }
+
+    .footer_up_all h3 {
+        font-size: 22px;
+        margin: 10px 0;
+    }
+
+    .footer_up_all p {
+        font-size: 16px;
+    }
+
+    .footer_up_all {
+        width: 100%;
+        padding: 20px 0;
+    }
+
+    .footer_down p {
+        text-align: center;
+        padding: 10px 0;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    .header_in .header_all .head_text {
+        margin-top: 18px;
+        margin-left: 0;
+    }
+
+    .header_in .header_all .head_text h3 {
+        font-size: 36px;
+        text-align: center;
+    }
+
+    .header_in .header_all .btn {
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .details_all .detaisl_text h3 {
+        font-size: 36px;
+        font-weight: 600;
+        width: 100%;
+    }
+
+    .details_all .d_btn {
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .details_all .d_btn h3 {
+        font-size: 15px;
+        padding: 8px 10px;
+    }
+
+    .services_all {
+        margin-top: 20px;
+    }
+
+    .services_all .services_inner h3 {
+        font-size: 28px;
+        text-align: center;
+        width: 50%;
+        margin-bottom: 25px;
+    }
+
+    .services_all .services_inner .ser_img {
+        width: 100%;
+    }
+
+    .services_all .services_inner .ser_in_text h4 {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+
+    .services_all .services_inner .ser_in_text p {
+        font-size: 16px;
+        width: 100%;
+    }
+
+    .services_all .ser_btn {
+        margin-top: 20px;
+        width: 100%;
+        margin: 0 auto;
+        text-align: center;
+    }
+
+    .services_all .ser_btn button {
+        margin-top: 20px;
+    }
+
+    .services_all .ser_btn button h5 {
+        font-size: 14px;
+        font-weight: 500;
+        text-transform: uppercase;
+        color: white;
+        display: block;
+        margin: 0;
+        padding: 5px 15px;
+    }
+
+    .apply_all .apply_inner h3 {
+        font-size: 24px;
+    }
+
+    .apply_all .apply_inner .app_img {
+        width: 100%;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+
+    .apply_all .apply_inner .app_in_text h4 {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+
+    .apply_all .apply_inner .app_in_text p {
+        font-size: 16px;
+    }
+
+    .apply_all .app_btn {
+        width: 100%;
+        margin: 0 auto;
+        margin-top: 20px;
+        text-align: center;
+    }
+
+    .apply_all .app_btn h5 {
+        font-size: 14px;
+        padding: 5px 15px;
+
+    }
+
+    .team_all {
+        margin-top: 40px;
+        margin-bottom: 30px;
+    }
+
+    .team_our {
+        margin-bottom: 20px;
+    }
+
+    .team_our h3 {
+        font-size: 24px;
+    }
+
+    .team_all img {
+        margin-left: 0;
+        width: 100%;
+    }
+
+    .team_text h3 {
+        font-size: 20px;
+    }
+
+    .team_text h5 {
+        font-size: 18px;
+    }
+
+    .slick-slide img {
+        width: 100%;
+    }
+
+    .slick-dots {
+        position: relative;
+        left: 50%;
+        bottom: 0;
+        transform: translateX(-50%);
+        width: 100%;
+        text-align: center;
+    }
+
+    .slick-dots li {
+        margin: 0px 5px;
+    }
+
+    .slick-dots li button {
+        margin: 5px 0 0 0px;
+    }
+
+    .footer_up_all h3 {
+        font-size: 22px;
+        margin: 10px 0;
+    }
+
+    .footer_up_all p {
+        font-size: 16px;
+    }
+
+    .footer_up_all {
+        width: 100%;
+        padding: 20px 0;
+    }
+
+    .footer_down p {
+        text-align: center;
+        padding: 10px 0;
+    }
+
+}
