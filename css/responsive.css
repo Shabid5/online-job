@@ -154,6 +154,7 @@
     .slick-dots li {
         margin: 0px 5px;
     }
+
     .slick-dots li button {
         margin: 5px 0 0 0;
     }
@@ -176,6 +177,95 @@
         text-align: center;
         padding: 10px 0;
     }
+
+    /* form  */
+
+    .login_form {
+        width: 250px !important;
+        margin-top: 80px !important;
+    }
+
+    .uname {
+        width: 200px !important;
+    }
+
+    .upass {
+        width: 200px !important;
+    }
+
+    .sbtn {
+        width: 100px !important;
+    }
+
+    .sbtn p {
+        font-size: 16px !important;
+    }
+
+    .login_form form h5 {
+        font-size: 18px !important;
+    }
+
+    .form_inner {
+        width: 300px !important;
+    }
+
+    .fname {
+        margin-right: 0 !important;
+        width: 290px !important;
+        padding: 5px 10px !important;
+        border: 1px solid gray !important;
+    }
+
+    .sname {
+        margin-right: 0 !important;
+        width: 290px !important;
+        padding: 5px 10px !important;
+        border: 1px solid gray !important;
+    }
+
+    .emaill {
+        margin-right: 0 !important;
+        width: 290px !important;
+        padding: 5px 10px !important;
+        border: 1px solid gray !important;
+    }
+
+    .phone {
+        margin-right: 0 !important;
+        width: 220px !important;
+        padding: 5px 10px !important;
+        border: 1px solid gray !important;
+    }
+
+    .phncode {
+        height: 36px !important;
+        border: 1px solid gray !important;
+    }
+
+    .password {
+        margin-right: 0 !important;
+        width: 290px !important;
+        padding: 5px 10px !important;
+        border: 1px solid gray !important;
+    }
+    .conpassword {
+        margin-right: 0 !important;
+        width: 290px !important;
+        padding: 5px 10px !important;
+        border: 1px solid gray !important;
+    }
+    .reg {
+        margin-right: 0 !important;
+        width: 290px !important;
+        padding: 5px 10px !important;
+        border: 1px solid gray !important;
+    }
+    .term {
+        margin-top: 10px !important;
+        font-size: 14px !important;
+    }
+
+    /* form  */
 }
 
 
@@ -357,6 +447,95 @@
         text-align: center;
         padding: 10px 0;
     }
+
+    /* form  */
+
+    .login_form {
+        width: 250px !important;
+        margin-top: 80px !important;
+    }
+
+    .uname {
+        width: 200px !important;
+    }
+
+    .upass {
+        width: 200px !important;
+    }
+
+    .sbtn {
+        width: 100px !important;
+    }
+
+    .sbtn p {
+        font-size: 16px !important;
+    }
+
+    .login_form form h5 {
+        font-size: 18px !important;
+    }
+
+    .form_inner {
+        width: 300px !important;
+    }
+
+    .fname {
+        margin-right: 0 !important;
+        width: 290px !important;
+        padding: 5px 10px !important;
+        border: 1px solid gray !important;
+    }
+
+    .sname {
+        margin-right: 0 !important;
+        width: 290px !important;
+        padding: 5px 10px !important;
+        border: 1px solid gray !important;
+    }
+
+    .emaill {
+        margin-right: 0 !important;
+        width: 290px !important;
+        padding: 5px 10px !important;
+        border: 1px solid gray !important;
+    }
+
+    .phone {
+        margin-right: 0 !important;
+        width: 220px !important;
+        padding: 5px 10px !important;
+        border: 1px solid gray !important;
+    }
+
+    .phncode {
+        height: 36px !important;
+        border: 1px solid gray !important;
+    }
+
+    .password {
+        margin-right: 0 !important;
+        width: 290px !important;
+        padding: 5px 10px !important;
+        border: 1px solid gray !important;
+    }
+    .conpassword {
+        margin-right: 0 !important;
+        width: 290px !important;
+        padding: 5px 10px !important;
+        border: 1px solid gray !important;
+    }
+    .reg {
+        margin-right: 0 !important;
+        width: 290px !important;
+        padding: 5px 10px !important;
+        border: 1px solid gray !important;
+    }
+    .term {
+        margin-top: 10px !important;
+        font-size: 14px !important;
+    }
+
+    /* form  */
 }
 
 @media (min-width: 576px) and (max-width: 767.98px) {
@@ -538,6 +717,70 @@
         text-align: center;
         padding: 10px 0;
     }
+
+    /* form  */
+
+    .form_inner {
+        width: 300px !important;
+    }
+
+    .fname {
+        margin-right: 0 !important;
+        width: 290px !important;
+        padding: 5px 10px !important;
+        border: 1px solid gray !important;
+    }
+
+    .sname {
+        margin-right: 0 !important;
+        width: 290px !important;
+        padding: 5px 10px !important;
+        border: 1px solid gray !important;
+    }
+
+    .emaill {
+        margin-right: 0 !important;
+        width: 290px !important;
+        padding: 5px 10px !important;
+        border: 1px solid gray !important;
+    }
+
+    .phone {
+        margin-right: 0 !important;
+        width: 220px !important;
+        padding: 5px 10px !important;
+        border: 1px solid gray !important;
+    }
+
+    .phncode {
+        height: 36px !important;
+        border: 1px solid gray !important;
+    }
+
+    .password {
+        margin-right: 0 !important;
+        width: 290px !important;
+        padding: 5px 10px !important;
+        border: 1px solid gray !important;
+    }
+    .conpassword {
+        margin-right: 0 !important;
+        width: 290px !important;
+        padding: 5px 10px !important;
+        border: 1px solid gray !important;
+    }
+    .reg {
+        margin-right: 0 !important;
+        width: 290px !important;
+        padding: 5px 10px !important;
+        border: 1px solid gray !important;
+    }
+    .term {
+        margin-top: 10px !important;
+        font-size: 14px !important;
+    }
+
+    /* form  */
 
 }
 
