@@ -112,6 +112,10 @@
 
     }
 
+    .apply_all .apply_inner .app_in_text .tic_icon {
+        margin-left: 0;
+    }
+
     .team_all {
         margin-top: 40px;
         margin-bottom: 30px;
@@ -166,9 +170,11 @@
 
     .footer_up_all p {
         font-size: 16px;
+        width: 100%;
     }
 
     .footer_up_all {
+        display: block;
         width: 100%;
         padding: 20px 0;
     }
@@ -177,6 +183,16 @@
         text-align: center;
         padding: 10px 0;
     }
+
+    .f_left {
+        width: 100% !important;
+    }
+
+    .f_right {
+        margin-top: 40px;
+        width: 100% !important;
+    }
+
 
     /* form  */
 
@@ -248,18 +264,21 @@
         padding: 5px 10px !important;
         border: 1px solid gray !important;
     }
+
     .conpassword {
         margin-right: 0 !important;
         width: 290px !important;
         padding: 5px 10px !important;
         border: 1px solid gray !important;
     }
+
     .reg {
-        margin-right: 0 !important;
         width: 290px !important;
-        padding: 5px 10px !important;
-        border: 1px solid gray !important;
+        margin-right: 0 !important;
+        padding: 0px 10px !important;
+        border: none !important;
     }
+
     .term {
         margin-top: 10px !important;
         font-size: 14px !important;
@@ -382,6 +401,10 @@
 
     }
 
+    .apply_all .apply_inner .app_in_text .tic_icon {
+        margin-left: 0 !important;
+    }
+
     .team_all {
         margin-top: 40px;
         margin-bottom: 30px;
@@ -436,9 +459,11 @@
 
     .footer_up_all p {
         font-size: 16px;
+        width: 100%;
     }
 
     .footer_up_all {
+        display: block;
         width: 100%;
         padding: 20px 0;
     }
@@ -446,6 +471,15 @@
     .footer_down p {
         text-align: center;
         padding: 10px 0;
+    }
+
+    .f_left {
+        width: 100% !important;
+    }
+
+    .f_right {
+        margin-top: 40px;
+        width: 100% !important;
     }
 
     /* form  */
@@ -518,18 +552,21 @@
         padding: 5px 10px !important;
         border: 1px solid gray !important;
     }
+
     .conpassword {
         margin-right: 0 !important;
         width: 290px !important;
         padding: 5px 10px !important;
         border: 1px solid gray !important;
     }
+
     .reg {
-        margin-right: 0 !important;
         width: 290px !important;
-        padding: 5px 10px !important;
-        border: 1px solid gray !important;
+        margin-right: 0 !important;
+        padding: 0px 10px !important;
+        border: none !important;
     }
+
     .term {
         margin-top: 10px !important;
         font-size: 14px !important;
@@ -652,6 +689,10 @@
 
     }
 
+    .apply_all .apply_inner .app_in_text .tic_icon {
+        margin-left: 0 !important;
+    }
+
     .team_all {
         margin-top: 40px;
         margin-bottom: 30px;
@@ -706,9 +747,11 @@
 
     .footer_up_all p {
         font-size: 16px;
+        width: 100%;
     }
 
     .footer_up_all {
+        display: block;
         width: 100%;
         padding: 20px 0;
     }
@@ -716,6 +759,15 @@
     .footer_down p {
         text-align: center;
         padding: 10px 0;
+    }
+
+    .f_left {
+        width: 100% !important;
+    }
+
+    .f_right {
+        margin-top: 40px;
+        width: 100% !important;
     }
 
     /* form  */
@@ -763,18 +815,21 @@
         padding: 5px 10px !important;
         border: 1px solid gray !important;
     }
+
     .conpassword {
         margin-right: 0 !important;
         width: 290px !important;
         padding: 5px 10px !important;
         border: 1px solid gray !important;
     }
+
     .reg {
-        margin-right: 0 !important;
         width: 290px !important;
-        padding: 5px 10px !important;
-        border: 1px solid gray !important;
+        margin-right: 0 !important;
+        padding: 0px 10px !important;
+        border: none !important;
     }
+
     .term {
         margin-top: 10px !important;
         font-size: 14px !important;
@@ -954,6 +1009,7 @@
     }
 
     .footer_up_all {
+        display: block;
         width: 100%;
         padding: 20px 0;
     }
@@ -961,6 +1017,15 @@
     .footer_down p {
         text-align: center;
         padding: 10px 0;
+    }
+
+    .f_left {
+        width: 100% !important;
+    }
+
+    .f_right {
+        margin-top: 40px;
+        width: 100% !important;
     }
 }
 
@@ -977,7 +1042,6 @@
     }
 
     .header_in .header_all .btn {
-        width: 100%;
         margin: 0 auto;
         margin-top: 20px;
         text-align: center;
